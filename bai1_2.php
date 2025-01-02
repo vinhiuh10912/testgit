@@ -6,7 +6,7 @@
     <body>
         <?php
         $hoten="Nguyen Tan Vinh";
-        $ngaysinh=" 19-12-2003";
+        $ngaysinh=" 19/12/2003";
         $lop="DHCNTT17A";
         echo "Ho va ten: $hoten";
         echo '<br>';

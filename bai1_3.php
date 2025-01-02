@@ -27,7 +27,7 @@ do {
 echo "x = $x\n";
 echo "<br>";
 echo "y = $y\n";
-echo "<br>";
+echo "--------";
 echo "Điều kiện thỏa mãn: x > y và x = k * y\n";
 ?>
 

@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta content="charset=utf-8">
-        <title>Hien thi thong tin</title>
+        <title>Hien thi thong tin tren web</title>
     </head>
     <body>
         <style>
